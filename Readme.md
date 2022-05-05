@@ -17,6 +17,8 @@
   
 ***
 
-## **Best Technique:** <span style="color:cyan"> *All Techniques*</span>
+## **Best Technique:**
+- <span style="color:cyan"> *Gaussian Naive Bayes*</span>
+- <span style="color:cyan"> *Logistic Regression*</span>
 
 
